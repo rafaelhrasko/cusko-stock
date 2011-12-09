@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppTeste", "WebAppTeste\WebAppTeste.csproj", "{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E92BA133-C4D5-496E-B718-825C96F8CDED}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		WebAppTeste.vsmdi = WebAppTeste.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{52F7E8AD-1C6D-409E-890F-FBE660FAC869}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = WebAppTeste.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F7E8AD-1C6D-409E-890F-FBE660FAC869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F7E8AD-1C6D-409E-890F-FBE660FAC869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F7E8AD-1C6D-409E-890F-FBE660FAC869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F7E8AD-1C6D-409E-890F-FBE660FAC869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

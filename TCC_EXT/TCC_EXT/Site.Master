@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TCC_EXT.SiteMaster" %>
+
+<%@ Register Assembly="Ext.Net" Namespace="Ext.Net" TagPrefix="ext" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <ext:ResourceManager ID="ResourceManager1" runat="server" />
+    <ext:Viewport ID="Viewport1" runat="server" Layout="border">
+        <Items>
+            <ext:Panel ID="Panel1" runat="server" Region="North" Split="true" Collapsible="false">
+                <TopBar>
+                    <ext:Toolbar ID="Toolbar1" runat="server" AutoWidth="true" AutoHeight="true">
+                        <Items>
+                            <ext:Button ID="Button1" runat="server" Text="Início" PostBackUrl="pnlMain.aspx" />
+                            <ext:Button ID="Button2" runat="server" Text="Meu Portifólio">
+                                <Menu>
+                                    <ext:Menu ID="PanelsMenu" runat="server">
+                                        <Items>
+                                            <ext:Button runat="server" ID="Button3" Text="Em carteira" />
+                                            <ext:MenuSeparator />
+                                            <ext:Button runat="server" ID="Button4" Text="Em observação" PostBackUrl="pnlPortifolio.aspx" />
+                                        </Items>
+                                    </ext:Menu>
+                                </Menu>
+                            </ext:Button>
+                            <ext:Button ID="Button5" runat="server" Text="Operações" />
+                        </Items>
+                    </ext:Toolbar>
+                </TopBar>
+            </ext:Panel>
+            <ext:Panel runat="server" ID="pnlFramePrincipal" MonitorResize="true" AutoHeight="true"
+                AnchorHorizontal="100%" AnchorVertical="100%" Region="Center" Layout="FitLayout">
+                <Content>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </Content>
+            </ext:Panel>
+        </Items>
+    </ext:Viewport>
+</body>
+</html>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ce2773e7-ef81-45aa-8be4-fc64b2658427" name="Hrasko@HRASKO-NOTE 2011-12-04 16:44:16" runUser="Hrasko-Note\Hrasko" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dc200b77-088d-4b24-b6dd-686920d0151f">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Hrasko_HRASKO-NOTE 2011-12-04 16_44_16">
+      <DeploymentItem filename="C:\Users\Hrasko\Dropbox\TCC\código\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-04T16:44:16.1823095-02:00" queuing="2011-12-04T16:44:17.3213746-02:00" start="2011-12-04T16:44:17.5123856-02:00" finish="2011-12-04T16:44:33.6963112-02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="HRASKO-NOTE" outcome="Error" timestamp="2011-12-04T16:44:33.6643094-02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AgenteMovimentacaoYQLLeXML" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="26125b13-5dce-5432-cc3c-c7a905fcdc6d">
+      <Execution id="f88868df-556e-4c30-9b4a-d22cb96497d0" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AgenteMovimentacaoYQLLeXML" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="26125b13-5dce-5432-cc3c-c7a905fcdc6d" executionId="f88868df-556e-4c30-9b4a-d22cb96497d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f88868df-556e-4c30-9b4a-d22cb96497d0" testId="26125b13-5dce-5432-cc3c-c7a905fcdc6d" testName="AgenteMovimentacaoYQLLeXML" computerName="HRASKO-NOTE" duration="00:00:15.9569126" startTime="2011-12-04T16:44:17.7393986-02:00" endTime="2011-12-04T16:44:33.6963112-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f88868df-556e-4c30-9b4a-d22cb96497d0">
+    </UnitTestResult>
+  </Results>
+</TestRun>

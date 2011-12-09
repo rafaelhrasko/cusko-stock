@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ac397c3b-9059-4987-b392-ac094dfa6174" name="Hrasko@HRASKO-NOTE 2011-12-07 09:37:11" runUser="Hrasko-Note\Hrasko" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dc200b77-088d-4b24-b6dd-686920d0151f">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Hrasko_HRASKO-NOTE 2011-12-07 09_37_11">
+      <DeploymentItem filename="C:\Users\Hrasko\Dropbox\TCC\código\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-07T09:37:11.7620155-02:00" queuing="2011-12-07T09:37:15.2022123-02:00" start="2011-12-07T09:37:15.3822226-02:00" finish="2011-12-07T09:37:33.3932528-02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="11" executed="3" passed="2" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="8" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="HRASKO-NOTE" outcome="Error" timestamp="2011-12-07T09:37:33.3832522-02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="mustParseInnerMsgOfThirdLevelTag" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="ae84655b-3414-0878-b5a2-71f2dd1984c4">
+      <Execution id="4e0ac201-a1cf-4606-9380-50fde9526b28" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseInnerMsgOfThirdLevelTag" />
+    </UnitTest>
+    <UnitTest name="AgenteMovimentacaoYQLLeXML" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="26125b13-5dce-5432-cc3c-c7a905fcdc6d">
+      <Execution id="d90514a6-5e70-4a6d-a30e-7c482b872403" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AgenteMovimentacaoYQLLeXML" />
+    </UnitTest>
+    <UnitTest name="mustParseInnerMsgWithInnerTag" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="ab327957-62d9-7d7d-7b45-25fbf8a9d34d">
+      <Execution id="99814c33-a951-4845-be56-781c204b788d" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseInnerMsgWithInnerTag" />
+    </UnitTest>
+    <UnitTest name="mustParseInnerMsgOfThirdLevelSecondTag" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="bed3137b-3b3d-9cff-6927-ad87a660b6f2">
+      <Execution id="34234d77-00b0-4bd8-b6aa-bcf44393042c" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseInnerMsgOfThirdLevelSecondTag" />
+    </UnitTest>
+    <UnitTest name="mustParseInnerMsgOfSecondTag" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="56148666-c14d-e740-db16-5e65c1095d96">
+      <Execution id="b73b99eb-16a9-4d88-8c44-9f43f2dfc6b5" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseInnerMsgOfSecondTag" />
+    </UnitTest>
+    <UnitTest name="mustParseInnerMsg" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="106319c2-9ec8-7be2-5598-8c7d4fed9d93">
+      <Execution id="09a61725-8f34-45ce-a46f-a82377042571" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseInnerMsg" />
+    </UnitTest>
+    <UnitTest name="mustParseInnerMsgOfInnerTag" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="f06b4dda-81cc-5b83-58cb-220343386b58">
+      <Execution id="85aaa2bd-ae0f-41ec-b1ad-baf0621cd1a3" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseInnerMsgOfInnerTag" />
+    </UnitTest>
+    <UnitTest name="mustParseNodeName" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="b5b2f11c-8613-93a5-3243-fb414ac9b971">
+      <Execution id="109ab38f-d813-473d-81ef-e2e7295d6fe3" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseNodeName" />
+    </UnitTest>
+    <UnitTest name="mustParseAttributeSeparated" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="12f6e71d-d2a6-98bd-f14d-0ed94577102f">
+      <Execution id="3c312503-fffa-47fc-b5a7-86b809ed2c5e" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseAttributeSeparated" />
+    </UnitTest>
+    <UnitTest name="mustParseAttributeValue" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="37b27471-71ea-9410-8d6f-df828773e50b">
+      <Execution id="59dfae6c-8edb-43c5-8720-35c0a07cb44a" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseAttributeValue" />
+    </UnitTest>
+    <UnitTest name="mustParseAttributeName" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="2698a66e-1ba5-f4ac-d25d-e461e018a3c4">
+      <Execution id="edcf66b9-7b51-46e3-a152-8a00eba5a412" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DOMSharp.Test.DOMNodeTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mustParseAttributeName" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="106319c2-9ec8-7be2-5598-8c7d4fed9d93" executionId="09a61725-8f34-45ce-a46f-a82377042571" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="12f6e71d-d2a6-98bd-f14d-0ed94577102f" executionId="3c312503-fffa-47fc-b5a7-86b809ed2c5e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="26125b13-5dce-5432-cc3c-c7a905fcdc6d" executionId="d90514a6-5e70-4a6d-a30e-7c482b872403" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2698a66e-1ba5-f4ac-d25d-e461e018a3c4" executionId="edcf66b9-7b51-46e3-a152-8a00eba5a412" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37b27471-71ea-9410-8d6f-df828773e50b" executionId="59dfae6c-8edb-43c5-8720-35c0a07cb44a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="56148666-c14d-e740-db16-5e65c1095d96" executionId="b73b99eb-16a9-4d88-8c44-9f43f2dfc6b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab327957-62d9-7d7d-7b45-25fbf8a9d34d" executionId="99814c33-a951-4845-be56-781c204b788d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae84655b-3414-0878-b5a2-71f2dd1984c4" executionId="4e0ac201-a1cf-4606-9380-50fde9526b28" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5b2f11c-8613-93a5-3243-fb414ac9b971" executionId="109ab38f-d813-473d-81ef-e2e7295d6fe3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bed3137b-3b3d-9cff-6927-ad87a660b6f2" executionId="34234d77-00b0-4bd8-b6aa-bcf44393042c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f06b4dda-81cc-5b83-58cb-220343386b58" executionId="85aaa2bd-ae0f-41ec-b1ad-baf0621cd1a3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="09a61725-8f34-45ce-a46f-a82377042571" testId="106319c2-9ec8-7be2-5598-8c7d4fed9d93" testName="mustParseInnerMsg" computerName="HRASKO-NOTE" duration="00:00:00.0313077" startTime="2011-12-07T09:37:15.5632329-02:00" endTime="2011-12-07T09:37:16.7042982-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="09a61725-8f34-45ce-a46f-a82377042571">
+    </UnitTestResult>
+    <UnitTestResult executionId="3c312503-fffa-47fc-b5a7-86b809ed2c5e" testId="12f6e71d-d2a6-98bd-f14d-0ed94577102f" testName="mustParseAttributeSeparated" computerName="HRASKO-NOTE" duration="00:00:00.0007864" startTime="2011-12-07T09:37:16.7192991-02:00" endTime="2011-12-07T09:37:16.7312997-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3c312503-fffa-47fc-b5a7-86b809ed2c5e">
+    </UnitTestResult>
+    <UnitTestResult executionId="d90514a6-5e70-4a6d-a30e-7c482b872403" testId="26125b13-5dce-5432-cc3c-c7a905fcdc6d" testName="AgenteMovimentacaoYQLLeXML" computerName="HRASKO-NOTE" duration="00:00:16.6419519" startTime="2011-12-07T09:37:16.7433004-02:00" endTime="2011-12-07T09:37:33.3852523-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d90514a6-5e70-4a6d-a30e-7c482b872403">
+    </UnitTestResult>
+    <UnitTestResult executionId="edcf66b9-7b51-46e3-a152-8a00eba5a412" testId="2698a66e-1ba5-f4ac-d25d-e461e018a3c4" testName="mustParseAttributeName" computerName="HRASKO-NOTE" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="edcf66b9-7b51-46e3-a152-8a00eba5a412">
+    </UnitTestResult>
+    <UnitTestResult executionId="59dfae6c-8edb-43c5-8720-35c0a07cb44a" testId="37b27471-71ea-9410-8d6f-df828773e50b" testName="mustParseAttributeValue" computerName="HRASKO-NOTE" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="59dfae6c-8edb-43c5-8720-35c0a07cb44a">
+    </UnitTestResult>
+    <UnitTestResult executionId="b73b99eb-16a9-4d88-8c44-9f43f2dfc6b5" testId="56148666-c14d-e740-db16-5e65c1095d96" testName="mustParseInnerMsgOfSecondTag" computerName="HRASKO-NOTE" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b73b99eb-16a9-4d88-8c44-9f43f2dfc6b5">
+    </UnitTestResult>
+    <UnitTestResult executionId="99814c33-a951-4845-be56-781c204b788d" testId="ab327957-62d9-7d7d-7b45-25fbf8a9d34d" testName="mustParseInnerMsgWithInnerTag" computerName="HRASKO-NOTE" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="99814c33-a951-4845-be56-781c204b788d">
+    </UnitTestResult>
+    <UnitTestResult executionId="4e0ac201-a1cf-4606-9380-50fde9526b28" testId="ae84655b-3414-0878-b5a2-71f2dd1984c4" testName="mustParseInnerMsgOfThirdLevelTag" computerName="HRASKO-NOTE" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4e0ac201-a1cf-4606-9380-50fde9526b28">
+    </UnitTestResult>
+    <UnitTestResult executionId="109ab38f-d813-473d-81ef-e2e7295d6fe3" testId="b5b2f11c-8613-93a5-3243-fb414ac9b971" testName="mustParseNodeName" computerName="HRASKO-NOTE" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="109ab38f-d813-473d-81ef-e2e7295d6fe3">
+    </UnitTestResult>
+    <UnitTestResult executionId="34234d77-00b0-4bd8-b6aa-bcf44393042c" testId="bed3137b-3b3d-9cff-6927-ad87a660b6f2" testName="mustParseInnerMsgOfThirdLevelSecondTag" computerName="HRASKO-NOTE" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="34234d77-00b0-4bd8-b6aa-bcf44393042c">
+    </UnitTestResult>
+    <UnitTestResult executionId="85aaa2bd-ae0f-41ec-b1ad-baf0621cd1a3" testId="f06b4dda-81cc-5b83-58cb-220343386b58" testName="mustParseInnerMsgOfInnerTag" computerName="HRASKO-NOTE" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="85aaa2bd-ae0f-41ec-b1ad-baf0621cd1a3">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d5414051-e7f7-413d-b880-9582a276281f" name="Hrasko@HRASKO-NOTE 2011-12-04 16:43:12" runUser="Hrasko-Note\Hrasko" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dc200b77-088d-4b24-b6dd-686920d0151f">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Hrasko_HRASKO-NOTE 2011-12-04 16_43_12">
+      <DeploymentItem filename="C:\Users\Hrasko\Dropbox\TCC\código\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-04T16:43:12.7886836-02:00" queuing="2011-12-04T16:43:15.6758487-02:00" start="2011-12-04T16:43:15.8518588-02:00" finish="2011-12-04T16:43:17.8419726-02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AgenteMovimentacaoYQLLeXML" storage="c:\users\hrasko\dropbox\tcc\código\webappteste\testproject1\bin\debug\testproject1.dll" id="26125b13-5dce-5432-cc3c-c7a905fcdc6d">
+      <Execution id="17fd5db1-c9e9-4d07-b9a5-44b6dc89c615" />
+      <TestMethod codeBase="C:/Users/Hrasko/Dropbox/TCC/código/WebAppTeste/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AgenteMovimentacaoYQLLeXML" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="26125b13-5dce-5432-cc3c-c7a905fcdc6d" executionId="17fd5db1-c9e9-4d07-b9a5-44b6dc89c615" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="17fd5db1-c9e9-4d07-b9a5-44b6dc89c615" testId="26125b13-5dce-5432-cc3c-c7a905fcdc6d" testName="AgenteMovimentacaoYQLLeXML" computerName="HRASKO-NOTE" duration="00:00:00.0474161" startTime="2011-12-04T16:43:16.0988729-02:00" endTime="2011-12-04T16:43:17.2089364-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17fd5db1-c9e9-4d07-b9a5-44b6dc89c615">
+      <Output>
+        <DebugTrace>ColetorMovYQL GOOG(id 0): iniciado
+ColetorMovYQL GOOG(id 0): começando a trabalhar
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,47 @@
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\bin\TCC_EXT.dll
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\bin\TCC_EXT.pdb
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\bin\Ext.Net.dll
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\bin\Ext.Net.Utilities.dll
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\bin\Newtonsoft.Json.dll
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\bin\Ext.Net.xml
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\bin\Ext.Net.Utilities.xml
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\bin\Newtonsoft.Json.xml
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\obj\Debug\ResolveAssemblyReference.cache
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.dll
+c:\users\andre\documents\visual studio 2010\Projects\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.pdb
+C:\Users\Giran\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\TCC_EXT.dll
+C:\Users\Giran\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\TCC_EXT.pdb
+C:\Users\Giran\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Ext.Net.xml
+C:\Users\Giran\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Ext.Net.Utilities.xml
+C:\Users\Giran\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Newtonsoft.Json.xml
+C:\Users\Giran\Dropbox\TCC\código\TCC_EXT\TCC_EXT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Giran\Dropbox\TCC\código\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.dll
+C:\Users\Giran\Dropbox\TCC\código\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.pdb
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.dll
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.pdb
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\bin\TCC_EXT.dll
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\bin\TCC_EXT.pdb
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\bin\Core.dll
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\bin\Core.pdb
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\bin\Ext.Net.xml
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\bin\Ext.Net.Utilities.xml
+C:\Users\Andre\Desktop\TCC_EXT\TCC_EXT\bin\Newtonsoft.Json.xml
+C:\Users\Andre\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\TCC_EXT.dll
+C:\Users\Andre\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\TCC_EXT.pdb
+C:\Users\Andre\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Core.dll
+C:\Users\Andre\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Core.pdb
+C:\Users\Andre\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Ext.Net.xml
+C:\Users\Andre\Dropbox\TCC\código\TCC_EXT\TCC_EXT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andre\Dropbox\TCC\código\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.dll
+C:\Users\Andre\Dropbox\TCC\código\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.pdb
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\TCC_EXT.dll
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\TCC_EXT.pdb
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Core.dll
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Core.pdb
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Ext.Net.xml
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Ext.Net.Utilities.xml
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\bin\Newtonsoft.Json.xml
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.dll
+C:\Users\andre.custodio\Dropbox\TCC\código\TCC_EXT\TCC_EXT\obj\Debug\TCC_EXT.pdb
