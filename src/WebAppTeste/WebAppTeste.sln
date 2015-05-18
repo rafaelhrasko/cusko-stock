@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppTeste", "WebAppTeste\WebAppTeste.csproj", "{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService1", "WcfService1\WcfService1.csproj", "{D7F55C0C-953E-486A-90E1-920291591E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67DAB42-19FA-45AC-9D34-BCD7A532FAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F55C0C-953E-486A-90E1-920291591E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F55C0C-953E-486A-90E1-920291591E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F55C0C-953E-486A-90E1-920291591E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F55C0C-953E-486A-90E1-920291591E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

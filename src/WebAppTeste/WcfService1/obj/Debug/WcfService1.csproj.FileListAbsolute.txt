@@ -1,0 +1,5 @@
+C:\Users\Hrasko\Documents\Visual Studio 2010\Projects\WebAppTeste\WcfService1\bin\WcfService1.dll
+C:\Users\Hrasko\Documents\Visual Studio 2010\Projects\WebAppTeste\WcfService1\bin\WcfService1.pdb
+C:\Users\Hrasko\Documents\Visual Studio 2010\Projects\WebAppTeste\WcfService1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hrasko\Documents\Visual Studio 2010\Projects\WebAppTeste\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Hrasko\Documents\Visual Studio 2010\Projects\WebAppTeste\WcfService1\obj\Debug\WcfService1.pdb

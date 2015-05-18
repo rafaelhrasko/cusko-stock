@@ -1,0 +1,5 @@
+c:\users\hrasko\documents\visual studio 2010\Projects\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll
+c:\users\hrasko\documents\visual studio 2010\Projects\WebAppTeste\WebAppTeste\bin\WebAppTeste.pdb
+c:\users\hrasko\documents\visual studio 2010\Projects\WebAppTeste\WebAppTeste\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hrasko\documents\visual studio 2010\Projects\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.dll
+c:\users\hrasko\documents\visual studio 2010\Projects\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.pdb
